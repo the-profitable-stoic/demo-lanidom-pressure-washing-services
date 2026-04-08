@@ -1,0 +1,595 @@
+{
+  "business": {
+    "name": "Lanidom Pressure Washing Services",
+    "phone": "+19168444729",
+    "category": "pressure washing",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento's Top Pressure Washing",
+      "heroSubline": "Restore your home's curb appeal. We blast away grime, mold, and years of buildup.",
+      "aboutTitle": "Sacramento's Trusted Pressure Washing Experts",
+      "aboutText": [
+        "Lanidom Pressure Washing Services started with a simple goal: to provide Sacramento residents with reliable and effective exterior cleaning solutions. Frustrated by the lack of quality and attention to detail in the industry, we set out to build a company that prioritizes customer satisfaction and delivers exceptional results.",
+        "We believe in doing the job right the first time. Our approach is simple: thorough assessment, careful preparation, and precise execution. We use professional-grade equipment and eco-friendly cleaning solutions to protect your property and the environment.",
+        "As a local Sacramento business, we're committed to giving back to the community. We regularly support local charities and organizations, and we strive to be a responsible and ethical business partner."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Years of experience tackling Sacramento's toughest grime and stains."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "Safe for your family, pets, and the environment. We use biodegradable cleaning agents."
+        },
+        {
+          "title": "Detailed Cleaning",
+          "description": "We don't cut corners. Our meticulous approach guarantees exceptional results."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We're not happy until you are. If you're not satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Get a Free Pressure Washing Quote",
+      "ctaSubline": "Transform your property with our professional cleaning services. Call today!"
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Revitalize your home's exterior and boost curb appeal.",
+        "description": "Sacramento's climate – with its hot, dry summers and occasional winter flooding – can take a toll on your home's exterior. Algae, mold, and dirt accumulate, dulling your paint and damaging siding. Our house washing service uses a soft wash technique that gently removes these contaminants without damaging your property. We carefully assess the type of siding you have – whether it's stucco common in East Sacramento, vinyl siding prevalent in Natomas, or wood siding often found in older Midtown homes – and adjust our cleaning solutions and pressure accordingly. We pay special attention to areas prone to mildew and algae growth, ensuring a thorough and long-lasting clean. Our process protects your home's value and prevents costly repairs down the road. From bungalows to ranch homes, we've got you covered.",
+        "process": [
+          "Step 1: Thorough assessment of your home's exterior and identification of problem areas.",
+          "Step 2: Application of eco-friendly cleaning solutions to loosen dirt, grime, and algae.",
+          "Step 3: Gentle soft wash using low pressure to avoid damaging siding or paint.",
+          "Step 4: Rinse with clean water to reveal a sparkling clean surface."
+        ],
+        "benefits": [
+          "Improved curb appeal and increased property value",
+          "Removal of harmful mold and algae that can damage siding",
+          "Protection against future dirt and grime buildup",
+          "Safe and effective cleaning process"
+        ],
+        "faq": [
+          {
+            "question": "What is soft washing, and why is it better than pressure washing?",
+            "answer": "Soft washing uses low pressure and specialized cleaning solutions to remove dirt and grime without damaging your siding. Pressure washing can be too harsh and can potentially damage delicate surfaces."
+          },
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years, depending on the level of dirt and grime buildup. Homes in areas with heavy tree cover or poor drainage may require more frequent cleaning."
+          },
+          {
+            "question": "Are your cleaning solutions safe for my plants and pets?",
+            "answer": "Yes, we use eco-friendly and biodegradable cleaning solutions that are safe for your plants, pets, and family. We take precautions to protect your landscaping during the cleaning process."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Remove oil stains, dirt, and grime from your driveway.",
+        "description": "Your driveway is one of the first things people see when they arrive at your home. Over time, it can become stained with oil, dirt, and grime, detracting from your home's curb appeal. Our driveway cleaning service uses high-pressure washing to blast away these unsightly stains and restore your driveway to its original condition. We understand that Sacramento's clay soil can be particularly challenging, leading to stubborn stains that are difficult to remove. We use specialized cleaning solutions to break down these stains and ensure a thorough and even clean. Whether you have a concrete, asphalt, or paver driveway, we have the expertise and equipment to get the job done right. We'll make your driveway look like new again.",
+        "process": [
+          "Step 1: Application of degreasing agents to loosen oil and grease stains.",
+          "Step 2: High-pressure washing to remove dirt, grime, and stains.",
+          "Step 3: Post-treatment to prevent future stains and protect the surface.",
+          "Step 4: Rinse and inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal and a cleaner, more inviting driveway",
+          "Removal of slippery oil and grease stains",
+          "Prevention of future stains and damage",
+          "Extended lifespan of your driveway"
+        ],
+        "faq": [
+          {
+            "question": "Can you remove all types of stains from my driveway?",
+            "answer": "We can remove most common stains, including oil, grease, dirt, and algae. However, some deeply embedded stains may be more difficult to remove completely."
+          },
+          {
+            "question": "Will pressure washing damage my concrete driveway?",
+            "answer": "When done correctly, pressure washing will not damage your concrete driveway. We use the appropriate pressure settings and techniques to ensure a safe and effective clean."
+          },
+          {
+            "question": "How long does it take to clean a driveway?",
+            "answer": "The time it takes to clean a driveway depends on its size and the severity of the stains. A typical driveway can be cleaned in 1-3 hours."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-cleaning",
+        "name": "Deck & Patio Cleaning",
+        "shortDescription": "Prepare your outdoor spaces for relaxation and entertainment.",
+        "description": "Sacramento's warm summers are perfect for enjoying your deck or patio. However, these outdoor spaces can quickly become dirty and stained from exposure to the elements. Our deck and patio cleaning service will restore your outdoor living areas to their former glory. We carefully clean all types of decking and patio materials, including wood, composite, concrete, and pavers. We use specialized cleaning solutions and techniques to remove dirt, grime, algae, and mildew without damaging the surface. Whether you have a small patio in Land Park or a large deck in East Sacramento, we have the expertise to get the job done right. We'll have your outdoor spaces ready for barbecues, parties, and quiet relaxation.",
+        "process": [
+          "Step 1: Inspection of your deck or patio to determine the best cleaning method.",
+          "Step 2: Application of specialized cleaning solutions to loosen dirt and grime.",
+          "Step 3: Gentle pressure washing to remove contaminants without damaging the surface.",
+          "Step 4: Sealing or staining (optional) to protect and enhance the appearance of your deck or patio."
+        ],
+        "benefits": [
+          "A cleaner, more inviting outdoor living space",
+          "Removal of slippery algae and mildew",
+          "Protection against future dirt and grime buildup",
+          "Extended lifespan of your deck or patio"
+        ],
+        "faq": [
+          {
+            "question": "Can you clean wooden decks without damaging them?",
+            "answer": "Yes, we use specialized cleaning solutions and low-pressure washing techniques to clean wooden decks safely and effectively. We avoid using harsh chemicals or high pressure that could damage the wood."
+          },
+          {
+            "question": "Do I need to seal or stain my deck after cleaning?",
+            "answer": "Sealing or staining your deck after cleaning is recommended to protect it from the elements and extend its lifespan. We offer sealing and staining services as an add-on to our deck cleaning service."
+          },
+          {
+            "question": "How often should I clean my deck or patio?",
+            "answer": "We recommend cleaning your deck or patio at least once a year, or more frequently if it is exposed to heavy traffic or harsh weather conditions."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Restore the beauty and integrity of your fence.",
+        "description": "Fences are often overlooked when it comes to exterior cleaning, but they play a vital role in your property's appearance and security. Over time, fences can become dirty, stained, and covered in algae, detracting from your home's curb appeal. Our fence cleaning service will restore your fence to its original condition, improving your property's overall appearance. We clean all types of fences, including wood, vinyl, and metal. We use specialized cleaning solutions and techniques to remove dirt, grime, algae, and mildew without damaging the surface. Whether you have a wooden fence in Midtown or a vinyl fence in Natomas, we have the expertise to get the job done right. Proper fence cleaning helps prolong its life, saving you money in the long run.",
+        "process": [
+          "Step 1: Inspection of your fence to determine the best cleaning method.",
+          "Step 2: Application of specialized cleaning solutions to loosen dirt and grime.",
+          "Step 3: Gentle pressure washing to remove contaminants without damaging the surface.",
+          "Step 4: Rinse and inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal and a more attractive property",
+          "Removal of harmful algae and mildew",
+          "Protection against future dirt and grime buildup",
+          "Extended lifespan of your fence"
+        ],
+        "faq": [
+          {
+            "question": "Can you clean all types of fences?",
+            "answer": "Yes, we can clean all types of fences, including wood, vinyl, and metal. We use different cleaning solutions and techniques depending on the type of fence."
+          },
+          {
+            "question": "Will pressure washing damage my wooden fence?",
+            "answer": "When done correctly, pressure washing will not damage your wooden fence. We use the appropriate pressure settings and techniques to ensure a safe and effective clean."
+          },
+          {
+            "question": "How long does it take to clean a fence?",
+            "answer": "The time it takes to clean a fence depends on its size and the severity of the stains. A typical fence can be cleaned in 2-4 hours."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Clear clogged gutters and prevent water damage to your home.",
+        "description": "Sacramento's mild, wet winters can cause leaves and debris to accumulate in your gutters, leading to clogs and water damage. Clogged gutters can cause water to overflow, damaging your roof, siding, and foundation. Our gutter cleaning service will remove all leaves and debris from your gutters, ensuring that they function properly. We also inspect your gutters for any damage and make recommendations for repairs. We understand the importance of proper gutter maintenance in preventing costly repairs down the road. Don't wait until it's too late – schedule your gutter cleaning today!",
+        "process": [
+          "Step 1: Removal of all leaves and debris from your gutters.",
+          "Step 2: Flushing of downspouts to ensure proper drainage.",
+          "Step 3: Inspection of gutters for damage and leaks.",
+          "Step 4: Recommendations for repairs or replacements, if needed."
+        ],
+        "benefits": [
+          "Prevention of water damage to your roof, siding, and foundation",
+          "Proper drainage of rainwater",
+          "Extended lifespan of your gutters",
+          "Reduced risk of pest infestations"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. Homes with heavy tree cover may require more frequent cleaning."
+          },
+          {
+            "question": "Can clogged gutters cause damage to my home?",
+            "answer": "Yes, clogged gutters can cause water to overflow, damaging your roof, siding, and foundation. They can also attract pests and lead to ice dams in the winter."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "Yes, we offer gutter repair services to fix any damage or leaks. We can also replace your gutters if needed."
+          }
+        ]
+      },
+      {
+        "slug": "roof-cleaning",
+        "name": "Roof Cleaning",
+        "shortDescription": "Safely remove moss, algae, and debris from your roof.",
+        "description": "A dirty roof not only looks bad, but it can also damage your roof shingles and shorten its lifespan. Moss, algae, and lichen thrive in Sacramento's climate, especially on roofs with limited sun exposure. Our roof cleaning service uses a soft wash technique to safely remove these contaminants without damaging your roof. We use specialized cleaning solutions that kill the moss and algae and prevent them from returning. We understand that your roof is a significant investment, and we take every precaution to protect it during the cleaning process. We are experienced with the various roofing materials found in Sacramento, from older tile roofs in Midtown to newer composition roofs in Elk Grove.",
+        "process": [
+          "Step 1: Assessment of your roof to determine the best cleaning method.",
+          "Step 2: Application of specialized cleaning solutions to kill moss, algae, and lichen.",
+          "Step 3: Gentle soft wash to remove contaminants without damaging the roof.",
+          "Step 4: Rinse and inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal and a cleaner, more attractive roof",
+          "Removal of harmful moss and algae that can damage shingles",
+          "Extended lifespan of your roof",
+          "Prevention of future moss and algae growth"
+        ],
+        "faq": [
+          {
+            "question": "Will roof cleaning damage my shingles?",
+            "answer": "When done correctly, roof cleaning will not damage your shingles. We use a soft wash technique and specialized cleaning solutions that are safe for all types of roofing materials."
+          },
+          {
+            "question": "How often should I clean my roof?",
+            "answer": "We recommend cleaning your roof every 2-3 years, or more frequently if you notice moss or algae growth."
+          },
+          {
+            "question": "Can you clean tile roofs?",
+            "answer": "Yes, we can clean tile roofs. We use specialized cleaning solutions and techniques to clean tile roofs safely and effectively."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-pressure-washing",
+        "name": "Commercial Pressure Washing",
+        "shortDescription": "Maintain a clean and professional image for your business.",
+        "description": "First impressions matter. Lanidom Pressure Washing Services helps Sacramento businesses maintain a clean and professional exterior. We offer comprehensive commercial pressure washing services tailored to your specific needs. From storefronts and sidewalks to parking lots and building facades, we'll remove dirt, grime, graffiti, and other unsightly stains. We understand the importance of minimizing disruption to your business, so we offer flexible scheduling and efficient service. Whether you own a restaurant in Old Sacramento or an office building in Natomas, we can help you create a welcoming and professional environment for your customers and employees. We are fully insured and equipped to handle any commercial pressure washing job, big or small.",
+        "process": [
+          "Step 1: Site assessment to determine the best cleaning approach.",
+          "Step 2: Application of appropriate cleaning solutions to loosen dirt and grime.",
+          "Step 3: High-pressure washing to remove contaminants.",
+          "Step 4: Final inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Enhanced curb appeal and a professional image",
+          "Improved safety for customers and employees",
+          "Prevention of structural damage",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer after-hours cleaning?",
+            "answer": "Yes, we offer after-hours cleaning to minimize disruption to your business operations."
+          },
+          {
+            "question": "Are you insured?",
+            "answer": "Yes, we are fully insured for your protection."
+          },
+          {
+            "question": "What types of commercial properties do you service?",
+            "answer": "We service a wide range of commercial properties, including storefronts, office buildings, restaurants, and parking lots."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is proud to offer our expert pressure washing services to the residents and businesses of Elk Grove, California. As Elk Grove continues to grow, maintaining the cleanliness and appearance of your property is essential. We understand the unique challenges posed by Elk Grove's hot, dry summers, which can lead to increased algae growth and staining on exterior surfaces.\n\nOur team is equipped to handle any pressure washing job, from residential homes to commercial buildings. We specialize in removing dirt, grime, algae, and other contaminants to restore your property's curb appeal. Whether you need your driveway, siding, roof, or deck cleaned, you can rely on Lanidom Pressure Washing Services to deliver exceptional results.",
+        "localContext": "Elk Grove, known for its master-planned communities built primarily between the 1990s and 2020s, experiences hot, dry summers that can impact exterior surfaces. Lanidom Pressure Washing Services understands the specific needs of homeowners and businesses in Elk Grove.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Galt",
+          "Laguna"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services extends its professional pressure washing services to Roseville, California. Roseville's planned communities and rapid growth mean that maintaining your property's appearance is crucial. We're committed to keeping Roseville homes and businesses looking their best.\n\nGiven Roseville's climate, with hot summers often exceeding 100°F, exterior surfaces are prone to dirt, algae, and other build-up. Our experienced team uses the latest equipment and techniques to effectively clean a variety of surfaces, ensuring your property remains pristine. From siding and decks to driveways and patios, we have you covered.",
+        "localContext": "Roseville, characterized by its newer planned communities developed in the 1990s and 2000s, experiences hot, dry summers that necessitate regular pressure washing to maintain property value. Lanidom Pressure Washing Services is dedicated to serving the Roseville community.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Granite Bay",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is proud to serve the city of Folsom, California, with top-notch pressure washing solutions. Folsom's beautiful planned communities deserve to be maintained with the utmost care, and we're here to help you achieve that.\n\nThe hot, dry summers in Folsom can lead to significant build-up on exterior surfaces. Our comprehensive pressure washing services are designed to remove dirt, grime, algae, and other contaminants, restoring your property's beauty and value. Trust Lanidom Pressure Washing Services to keep your Folsom home or business looking its best.",
+        "localContext": "Folsom, known for its well-maintained planned communities and proximity to Folsom Lake, experiences hot, dry summers that make pressure washing a necessity. Lanidom Pressure Washing Services is committed to providing reliable and effective services to the Folsom area.",
+        "nearbyAreas": [
+          "Granite Bay",
+          "El Dorado Hills",
+          "Orangevale"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is your premier choice for pressure washing in Sacramento, California. From historic homes to modern businesses, we understand the unique needs of Sacramento properties. We're dedicated to providing exceptional cleaning services that enhance the beauty and value of your property.\n\nSacramento's diverse climate, with hot summers and occasional wet winters, can lead to the build-up of dirt, grime, and algae on exterior surfaces. Our experienced team uses the latest equipment and techniques to effectively clean a variety of surfaces, ensuring your property remains pristine. Whether you need your siding, driveway, patio, or commercial building cleaned, we have you covered.",
+        "localContext": "Sacramento, the capital of California, has a diverse range of properties that require regular pressure washing to combat the effects of its climate. Lanidom Pressure Washing Services is locally owned and operated, serving the Sacramento community with pride.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Citrus Heights",
+          "Elk Grove"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is pleased to offer its professional pressure washing services to Citrus Heights, CA. We understand the importance of maintaining a clean and attractive property in this vibrant community. Our services are tailored to meet the specific needs of Citrus Heights residents and businesses.\n\nThe hot summers and mild winters in Citrus Heights can contribute to the build-up of dirt, grime, and algae on exterior surfaces. Our team is equipped to handle any pressure washing job, from residential homes to commercial buildings. We specialize in removing dirt, grime, algae, and other contaminants to restore your property's curb appeal. Whether you need your driveway, siding, roof, or deck cleaned, you can rely on Lanidom Pressure Washing Services to deliver exceptional results.",
+        "localContext": "Citrus Heights, known for its family-friendly atmosphere and well-maintained neighborhoods, benefits from regular pressure washing to combat the effects of the local climate. Lanidom Pressure Washing Services is committed to serving the Citrus Heights community with reliable and effective cleaning solutions.",
+        "nearbyAreas": [
+          "Roseville",
+          "Orangevale",
+          "Fair Oaks"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services proudly serves the residents and businesses of Rocklin, California. Known for its beautiful homes and thriving commercial areas, Rocklin deserves the best in pressure washing services. We offer a range of solutions to keep your property looking its best.\n\nThe climate in Rocklin, with its hot, dry summers, can lead to a build-up of dirt, algae, and grime on exterior surfaces. Our experienced team uses the latest equipment and techniques to effectively clean a variety of surfaces, ensuring your property remains pristine. From siding and decks to driveways and patios, we have you covered.",
+        "localContext": "Rocklin, a growing city with a mix of residential and commercial properties, experiences hot summers that can impact exterior surfaces. Lanidom Pressure Washing Services is dedicated to providing top-quality pressure washing services to the Rocklin community.",
+        "nearbyAreas": [
+          "Roseville",
+          "Lincoln",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is excited to provide professional pressure washing services to Lincoln, California. As Lincoln continues to grow, maintaining the cleanliness and appearance of your property is crucial. We understand the unique challenges posed by Lincoln's local climate.\n\nOur team is equipped to handle any pressure washing job, from residential homes to commercial buildings. We specialize in removing dirt, grime, algae, and other contaminants to restore your property's curb appeal. Whether you need your driveway, siding, roof, or deck cleaned, you can rely on Lanidom Pressure Washing Services to deliver exceptional results.",
+        "localContext": "Lincoln, located in Placer County, is growing rapidly and experiences hot, dry summers. Lanidom Pressure Washing Services is committed to providing reliable and effective pressure washing solutions to the Lincoln area.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Roseville",
+          "Loomis"
+        ]
+      },
+      {
+        "city": "El Dorado Hills",
+        "slug": "el-dorado-hills-ca",
+        "state": "CA",
+        "content": "Lanidom Pressure Washing Services is delighted to offer expert pressure washing to El Dorado Hills, California. With its beautiful homes and stunning views, El Dorado Hills deserves the best in exterior cleaning. We are committed to helping you maintain the beauty and value of your property.\n\nThe hot, dry summers in El Dorado Hills can lead to significant build-up on exterior surfaces. Our comprehensive pressure washing services are designed to remove dirt, grime, algae, and other contaminants, restoring your property's beauty and value. Trust Lanidom Pressure Washing Services to keep your El Dorado Hills home or business looking its best.",
+        "localContext": "El Dorado Hills, known for its upscale homes and scenic landscape, experiences hot summers that make pressure washing an essential part of property maintenance. Lanidom Pressure Washing Services is dedicated to providing top-quality service to the El Dorado Hills community.",
+        "nearbyAreas": [
+          "Folsom",
+          "Cameron Park",
+          "Granite Bay"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Lanidom Pressure Washing did an amazing job on my house! It was covered in algae and dirt, and now it looks brand new. They were professional, efficient, and very reasonably priced. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "My driveway was a mess with oil stains. Lanidom Pressure Washing came out and did a great job cleaning it. There are a couple of stubborn stains that didn't come completely out, but overall, I'm very happy with the service.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Deck Cleaning",
+        "text": "Our deck was covered in mildew after the winter. Lanidom Pressure Washing cleaned it thoroughly and made it look beautiful again. They were careful not to damage the wood and even offered to seal it for us. Great service!",
+        "date": "2025-04-15"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "I had a wooden fence that was turning green with algae. Lanidom Pressure Washing cleaned it perfectly. The fence looks fantastic now. They were punctual, professional, and did a great job for a fair price.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Lanidom Pressure Washing cleaned my gutters quickly and efficiently. They removed a ton of leaves and debris, and now my gutters are draining properly. I'm so glad I called them!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 4,
+        "service": "Roof Cleaning",
+        "text": "I had moss growing on my roof, and Lanidom Pressure Washing cleaned it off without any problems. They were careful not to damage the shingles and did a great job cleaning up afterwards. Would definitely use them again.",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Karen R.",
+        "rating": 5,
+        "service": "Commercial Pressure Washing",
+        "text": "Lanidom Pressure Washing Services did an amazing job pressure washing the front of my business. It looks so much cleaner and more inviting now! They were professional, efficient, and very reasonably priced. I will definitely be using them again for all my pressure washing needs.",
+        "date": "2025-06-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sacramento Pressure Washing | Lanidom",
+        "description": "Professional pressure washing services in Sacramento CA. House washing, driveway cleaning, deck cleaning & more!"
+      },
+      "about": {
+        "title": "About Lanidom Pressure Washing Sacramento",
+        "description": "Learn about Lanidom Pressure Washing's commitment to quality pressure washing services in Sacramento, CA."
+      },
+      "services": {
+        "title": "Lanidom Pressure Washing Services",
+        "description": "Explore our pressure washing services: house washing, driveway cleaning, deck cleaning, fence cleaning, and more!"
+      },
+      "contact": {
+        "title": "Contact Lanidom Pressure Washing",
+        "description": "Contact Lanidom Pressure Washing for a free quote. Serving Sacramento, Elk Grove, Roseville, and Folsom."
+      },
+      "reviews": {
+        "title": "Lanidom Pressure Washing Reviews",
+        "description": "Read reviews from satisfied Lanidom Pressure Washing customers in the Sacramento area."
+      },
+      "service-areas": {
+        "title": "Pressure Washing Service Areas",
+        "description": "Lanidom Pressure Washing provides pressure washing services in Sacramento, Elk Grove, Roseville, and Folsom."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "deck-patio-cleaning": "/images/service-deck-patio-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "roof-cleaning": "/images/service-roof-cleaning.webp",
+      "commercial-pressure-washing": "/images/service-commercial-pressure-washing.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-cleaning": {
+        "src": "/images/service-deck-patio-cleaning.webp",
+        "srcset": "/images/service-deck-patio-cleaning-400w.webp 400w, /images/service-deck-patio-cleaning-800w.webp 800w, /images/service-deck-patio-cleaning-1200w.webp 1200w, /images/service-deck-patio-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-cleaning": {
+        "src": "/images/service-roof-cleaning.webp",
+        "srcset": "/images/service-roof-cleaning-400w.webp 400w, /images/service-roof-cleaning-800w.webp 800w, /images/service-roof-cleaning-1200w.webp 1200w, /images/service-roof-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-pressure-washing": {
+        "src": "/images/service-commercial-pressure-washing.webp",
+        "srcset": "/images/service-commercial-pressure-washing-400w.webp 400w, /images/service-commercial-pressure-washing-800w.webp 800w, /images/service-commercial-pressure-washing-1200w.webp 1200w, /images/service-commercial-pressure-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
